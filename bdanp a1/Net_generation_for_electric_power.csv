@@ -1,23 +1,3 @@
-description,units,source key,2017,2018,2019,2020,2021,2022,2023,2024
-Net generation for electric power,thousand megawatthours,,,,,,,,,
-United States,,ELEC.GEN..A,,,,,,,,
-Pacific Contiguous,,ELEC.GEN..A,,,,,,,,
-Washington,,ELEC.GEN..A,,,,,,,,
-Washington : all fuels (utility-scale),,ELEC.GEN.ALL-WA-98.A,,,,,,,,
-Washington : coal,thousand megawatthours,ELEC.GEN.COW-WA-98.A,5463,5359,7146,5143,3107,3546,4138,2825
-Washington : petroleum liquids,thousand megawatthours,ELEC.GEN.PEL-WA-98.A,14,14,10,10,13,25,20,NM
-Washington : natural gas,thousand megawatthours,ELEC.GEN.NG-WA-98.A,10733,10431,15004,13277,15754,13733,18589,17081
-Washington : nuclear,thousand megawatthours,ELEC.GEN.NUC-WA-98.A,8128,9708,8866,9427,8511,9852,8435,9967
-Washington : conventional hydroelectric,thousand megawatthours,ELEC.GEN.HYC-WA-98.A,82183,80883,66018,76410,71379,78916,61446,60454
-Washington : other renewables,,ELEC.GEN.AOR-WA-98.A,,,,,,,,
-Washington : wind,thousand megawatthours,ELEC.GEN.WND-WA-98.A,6925,7900,6677,9266,9298,8061,7550,8421
-Washington : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WA-98.A,0,2,44,46,50,83,364,436
-Washington : geothermal,thousand megawatthours,ELEC.GEN.GEO-WA-98.A,--,--,--,--,--,--,--,--
-Washington : biomass,thousand megawatthours,ELEC.GEN.BIO-WA-98.A,597,545,402,352,416,384,399,414
-Washington : wood and wood-derived fuels,thousand megawatthours,ELEC.GEN.WWW-WA-98.A,289,337,316,265,322,305,309,315
-Washington : other biomass,thousand megawatthours,ELEC.GEN.WAS-WA-98.A,307,209,86,88,94,80,90,99
-Washington : hydro-electric pumped storage,thousand megawatthours,ELEC.GEN.HPS-WA-98.A,3,28,9,14,2,10,-3,2
-Washington : other,thousand megawatthours,ELEC.GEN.OTH-WA-98.A,56,59,66,69,66,58,69,75
-Washington : all solar,thousand megawatthours,ELEC.GEN.TSN-WA-98.A,--,--,--,--,--,--,--,--
-Washington : small-scale solar photovoltaic,thousand megawatthours,ELEC.GEN.DPV-WA-98.A,--,--,--,--,--,--,--,--
-Washington : all utility-scale solar,thousand megawatthours,ELEC.GEN.SUN-WA-98.A,0,2,44,46,50,83,364,436
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dccf0628d0de5875804867924b9679107eaa4609081ef9e9beff49a777ebeb6
+size 2060
